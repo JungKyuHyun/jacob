@@ -8,4 +8,5 @@ gem "minimal-mistakes-jekyll"
    gem "jekyll-feed"
    gem "jekyll-include-cache"
 group :jekyll_plugins do
+  gem "jekyll-data"
 end
